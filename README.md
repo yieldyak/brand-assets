@@ -18,6 +18,8 @@ Two variants:
 
 ❌ Do not: Use dark background on black.
 
+❌ Do not: Use gradient on light background.
+
 # Style
 
 ## Type
