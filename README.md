@@ -1,5 +1,25 @@
 # Yield Yak
 
+# Logo Variants
+
+<img src="https://github.com/yieldyak/brand-assets/blob/517170f2b166c1beb03fa4f1738cebc4c04ede7d/y/y_256x256.png" width=128 height=128 /> <img src="https://github.com/yieldyak/brand-assets/blob/71449cd37b00f34b79fecd9ee32642868045fa2d/yak/yak_400x400.png" width=256 height=256 />
+
+Two variants:
+* Y - small formats
+* YAK - large formats
+
+✅ Do: Use Y for profile images, favicon, etc.
+
+✅ Do: Use YAK for ecosystem maps, web preview images, etc.
+
+✅ Do: Use Gradient version on dark backgrounds.
+
+✅ Do: Use black version on light backgrounds.
+
+❌ Do not: Use dark background on black.
+
+# Style
+
 ## Type
 
 * [Rubik Black](https://fonts.google.com/specimen/Rubik)
