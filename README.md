@@ -2,23 +2,20 @@
 
 # Logo Variants
 
-<img src="https://github.com/yieldyak/brand-assets/blob/517170f2b166c1beb03fa4f1738cebc4c04ede7d/y/y_256x256.png" width=128 height=128 /> <img src="https://github.com/yieldyak/brand-assets/blob/e1510333c51e47aa5b4a638e76c3e95be13f24d9/yak/yak_400x200.png" width=256 height=128 />
-
-Two variants:
-* Y - small formats
-* YAK - large formats
-
-✅ Do: Use Y for profile images, favicon, etc.
-
-✅ Do: Use YAK for ecosystem maps, web preview images, etc.
+|Description|Large|Small|
+|---|---|---|
+|Main|<img src="https://github.com/yieldyak/brand-assets/blob/e1510333c51e47aa5b4a638e76c3e95be13f24d9/yak/yak_400x200.png" width=256 height=128 />|<img src="https://github.com/yieldyak/brand-assets/blob/517170f2b166c1beb03fa4f1738cebc4c04ede7d/y/y_256x256.png" width=128 height=128 />|
+|Use in|Ecosystem maps, web previews, square images|Round profile images, favicon|
+|Alt versions|Gradient, Black, White, Square|Gradient, Black, White|
 
 ✅ Do: Use Gradient version on dark backgrounds.
 
+❌ Do not: Include dark background (#262626) on black.
+
 ✅ Do: Use black version on light backgrounds.
 
-❌ Do not: Use dark background on black.
-
 ❌ Do not: Use gradient on light background.
+
 
 # Style
 
