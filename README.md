@@ -1,6 +1,17 @@
 # Yield Yak
 
-# Logo Variants
+## About Yield Yak
+
+Yield Yak is an easy-to-use tool to earn more yield from defi farming on the Avalanche network. Learn more:
+
+* [Website](https://yieldyak.com/)
+* [Twitter](https://twitter.com/yieldyak_)
+* [Telegram](http://t.me/yieldyak)
+* [Medium](https://yieldyak.medium.com/)
+* [Docs](https://docs.yieldyak.com/)
+
+
+## Logo Variants
 
 |Description|Large|Small|
 |---|---|---|
